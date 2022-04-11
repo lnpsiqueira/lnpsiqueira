@@ -45,7 +45,7 @@ studied and was an intern at Daimler Chrysler-Stuttgart.
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-##🔧 Skills:
+## 🔧 Skills:
 <div style = "text-align: center">
     <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
     <img alt='BigQuery' src='https://img.shields.io/badge/BigQuery-100000?style=for-the-badge&logo=BigQuery&logoColor=white&labelColor=black&color=0C62ED'/>
