@@ -22,7 +22,7 @@ studied and was an intern at Daimler Chrysler-Stuttgart.
   - 📔 Comic Books
   - ⚽🏈 Watch Sports
   
-##📱 Contact:
+## 📱 Contact:
 <div style = "text-align: center">
     <a href="https://www.linkedin.com/in/lucianonpsiqueira/" target="_blank">
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -35,8 +35,8 @@ studied and was an intern at Daimler Chrysler-Stuttgart.
     <a href="mailto:lnpsiqueira@gmail.com" target="_blank">
         <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
-    
-##🚀 Programming languages:
+
+## 🚀 Programming languages:
 <div style = "text-align: center">
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
