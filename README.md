@@ -22,8 +22,8 @@ studied and was an intern at Daimler Chrysler-Stuttgart.
   - 📔 Comic Books
   - ⚽🏈 Watch Sports
   
-## 📱Contact:
-<div align="center">
+##📱 Contact:
+<div style = "text-align: center">
     <a href="https://www.linkedin.com/in/lucianonpsiqueira/" target="_blank">
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://github.com/lnpsiqueira" target="_blank">
@@ -36,8 +36,8 @@ studied and was an intern at Daimler Chrysler-Stuttgart.
         <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
     
-## 🚀Programming languages:
-<div align="center">
+##🚀 Programming languages:
+<div style = "text-align: center">
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -45,10 +45,13 @@ studied and was an intern at Daimler Chrysler-Stuttgart.
     <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-##🔧Skills:
-<div align="center">
+##🔧 Skills:
+<div style = "text-align: center">
     <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+    <img alt='BigQuery' src='https://img.shields.io/badge/BigQuery-100000?style=for-the-badge&logo=BigQuery&logoColor=white&labelColor=black&color=0C62ED'/>
     <img alt="Metabase" src="https://camo.githubusercontent.com/2f83c3ff3a1dbada0c73267e770057ca95a8b21269a26d5d5663f82bfd590954/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d6574616261736526636f6c6f723d353039454533266c6f676f3d4d65746162617365266c6f676f436f6c6f723d464646464646266c6162656c3d"/>
+    <img alt="MySQL" src="https://camo.githubusercontent.com/539a184961e9ab46a914b3a57718cd52f9a122ffb33a0bcaaa92484add20ba72/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d7953514c26636f6c6f723d343437394131266c6f676f3d4d7953514c266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+    <img alt="GIT" src="https://camo.githubusercontent.com/42acc7ee3a18313a065e672e0835729edf3361dedb045d6c3cf8821fe30a1c2d/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697426636f6c6f723d463035303332266c6f676f3d476974266c6f676f436f6c6f723d464646464646266c6162656c3d"/>
     <img alt="Pycharm" src="https://camo.githubusercontent.com/5d18d553cf0ef27b77cf1255045658a0c5595fdb8e3fff7695a902f8891e46ea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5079436861726d26636f6c6f723d303030303030266c6f676f3d5079436861726d266c6f676f436f6c6f723d464646464646266c6162656c3d"/>
     <img alt="DataGrip" src="https://camo.githubusercontent.com/903368d15a5cf52b569a00d5e52a91988777f9cb1da3570da17a26741cf14225/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446174614772697026636f6c6f723d303030303030266c6f676f3d4461746147726970266c6f676f436f6c6f723d464646464646266c6162656c3d"/>
     <img alt="Jira" src="https://camo.githubusercontent.com/3938162e4941125bece1c4e00bad5154f9777487f87d1aed8d3319778506323f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4a69726126636f6c6f723d303035324343266c6f676f3d4a697261266c6f676f436f6c6f723d464646464646266c6162656c3d"/>
@@ -57,18 +60,13 @@ studied and was an intern at Daimler Chrysler-Stuttgart.
     <img alt="Atom" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
     <img alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
     <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
-    <img alt="Matlab" src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg" />
     <img alt="Pandas" src="https://camo.githubusercontent.com/a8a393e327f51366e2b20a77d98a5d605cfe7109c5e6b38199fb1c27f43624c1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d70616e64617326636f6c6f723d313530343538266c6f676f3d70616e646173266c6f676f436f6c6f723d464646464646266c6162656c3d" />
     <img alt="Scikit-learn" src="https://camo.githubusercontent.com/3b08fbe4d24b03239a2cb39c62b0576e5a8fc7ac3d2fa2ea16caeac4d0b53005/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d7363696b69742d6c6561726e26636f6c6f723d323232323232266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d463739333145266c6162656c3d" />
+    <img alt='NLP' src='https://img.shields.io/badge/NLTK_and spaCy-100000?style=for-the-badge&logo=NLP&logoColor=white&labelColor=black&color=7F20DD'/>    
+    <img alt='BeautifulSoup' src='https://img.shields.io/badge/Beautiful_Soup-100000?style=for-the-badge&logo=BeautifulSoup&logoColor=white&labelColor=black&color=36992D'/>
     <img alt="Numpy" src="https://camo.githubusercontent.com/16dfcd292feb49350b350074a2eecfd1cb1e15f0d0e13aad32e913833f957d33/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e756d507926636f6c6f723d303133323433266c6f676f3d4e756d5079266c6f676f436f6c6f723d464646464646266c6162656c3d" />
     <img alt="Streamlit" src="https://camo.githubusercontent.com/889d91639f1d570c433984dd29aa7def0625edf7135c60e2ea7f2de4bb419b9c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d53747265616d6c697426636f6c6f723d464634423442266c6f676f3d53747265616d6c6974266c6f676f436f6c6f723d464646464646266c6162656c3d" />
-
-[//]: # (<img alt="Heroku" src=""/>)
-[//]: # (  <img alt="BigQuery" src="" />)
-[//]: # (  <img alt="BeautifulSoup" src="" />)
-[//]: # (  <img alt="NLPTK" src="" />)
-[//]: # (  <img alt="spacy" src="" />)
-[//]: # (  <img alt="" src="" />)
+    <img alt="Matlab" src="https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg" />
 </div>
 
 ## 🧑‍💼My work Experience:
@@ -90,13 +88,12 @@ studied and was an intern at Daimler Chrysler-Stuttgart.
 | Production Analyst (Volvo-Powertrain) |Consultant responsible for update the bill of materials structure of the engines (D12D and D13A). Follow up the DCN's (Design Change Notice) approvals, request quotation, start buy process and coordinate the introduction of new part in the assembly line. Representative in global meetings of DCN Implementation and DCN Governance. |
 
 
-## What about some statistics?
-<div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnpsiqueira" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lnpsiqueira" />
-    </a>
-
-</div>
+[//]: # (## What about some statistics?)
+[//]: # (<div align="center">)
+[//]: # (    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">)
+[//]: # (      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnpsiqueira" />)
+[//]: # (    </a>)
+[//]: # (    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">)
+[//]: # (      <img align="center" src="https://github-readme-stats.vercel.app/api?username=lnpsiqueira" />)
+[//]: # (    </a>)
+[//]: # (</div>)
