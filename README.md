@@ -1,7 +1,7 @@
 
 ![followers](https://img.shields.io/github/followers/lnpsiqueira?style=social)
 
-#👋 Hi, there!  I'm Luciano 
+# 👋 Hi, there!  I'm Luciano 
 
 I am Control and Automation Engineer with dual citizenship (Brazilian and Italian) and knowledge in Data Science and 
 Machine Learning. Currently working as a Data Analyst and Data Scientist, developing projects with NLP tools 
