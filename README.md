@@ -28,6 +28,8 @@ studied and was an intern at Daimler Chrysler-Stuttgart.
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://github.com/lnpsiqueira" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href= "https://lnpsiqueira.medium.com/" target="_blank">
+        <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
     <a href="https://www.instagram.com/herrsiqueira/" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://discordapp.com/users/HerrSiqueira#0138/" target="_blank">
